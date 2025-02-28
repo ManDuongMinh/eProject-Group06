@@ -22,7 +22,7 @@ Playfulouting
 
 =====================================================================================================================
 
-Documentation:https://github.com/ManDuongMinh/eProject-Sem01_T5.2410.E0_PlayfulOutings_Group06_Final-Submit/tree/main/Documentation
+Documentation:https://github.com/ManDuongMinh/eProject-Group06/tree/main/Documentation
 
 =====================================================================================================================
 
