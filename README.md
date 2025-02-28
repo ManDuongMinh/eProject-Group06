@@ -26,7 +26,7 @@ Documentation:https://github.com/ManDuongMinh/eProject-Group06/tree/main/Documen
 
 =====================================================================================================================
 
-Publish:https://manduongminh.github.io/eProject-Sem01_T5.2410.E0_PlayfulOutings_Group06_Final-Submit/Source%20code/index.html
+Publish:https://manduongminh.github.io/eProject-Group06/Source%20code/index.html
 
 =====================================================================================================================
 
